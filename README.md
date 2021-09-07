@@ -24,4 +24,22 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media0.giphy.com/media/TB65XT3fWbneOF16ap/giphy.gif?cid=790b76119c8708a43a7462c433688077908bf5ebb5846cb9&rid=giphy.gif' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/72051470/132413731-ffaf637f-4485-48e5-bbb8-83a5cf11b4d9.mp4' width='250' alt='Video Walkthrough'/>
+
+## Contributions
+
+Roles:
+
+Nabil Fayak: Backend / Product Manager
+
+Drew (Hae Yang) Lee: Backend / Product Manager  
+
+Nazmul Kareem: Backend  
+
+Haseeb Javed: Frontend 
+
+Tajwar Rahman: Frontend 
+
+Abdullah Saleh: Frontend 
+
+Manav Patel: Frontend
